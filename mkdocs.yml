@@ -1,0 +1,38 @@
+site_name: Empirical Dynamic Modeling (EDM)
+
+nav:
+  - Home: index.md
+
+theme:
+  name: material
+
+  icon:
+    logo: fontawesome/solid/wave-square
+
+  # These are the default colours
+  palette:
+    primary: indigo
+    accent: indigo
+    
+  font:
+    text: Alegreya Sans
+  
+  hljs_languages:
+    - stata
+
+markdown_extensions:
+  - admonition
+  - tables
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+
+extra:
+  analytics:
+    provider: google
+    property: G-HXXCTZFK3Z
