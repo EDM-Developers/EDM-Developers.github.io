@@ -1,6 +1,8 @@
 # Empirical Dynamic Modeling (EDM)
 
-Welcome to the home of **Empirical Dynamic Modeling (EDM)** — a suite of tools for **causal analysis of time series data** using modern nonlinear techniques like **Convergent Cross Mapping (CCM)**.
+<img src="assets/logo-lorenz.svg" align="right" height="200px" width="200px" alt="logo" />
+
+Welcome to the home of **Empirical Dynamic Modeling (EDM)** — a suite of statistical software packages for **causal analysis of time series data** using modern nonlinear techniques like **Convergent Cross Mapping (CCM)**.
 
 These packages are available in:
 
